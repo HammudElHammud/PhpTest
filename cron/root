@@ -1,0 +1,1 @@
+0 */4 * * * php /var/www/html/XMLReaderJob.php
